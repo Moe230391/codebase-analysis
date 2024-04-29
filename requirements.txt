@@ -1,0 +1,14 @@
+astroid==2.12.13
+beautifulsoup4==4.11.1
+css-parser==1.0.8
+esprima==4.0.1
+filetype==1.2.0
+jsonschema==4.17.3
+lxml==4.9.2
+markdown==3.4.1
+matplotlib==3.7.1
+networkx==3.0
+pylint==2.15.10
+pyan3==1.1.5
+radon==5.1.0
+spacy==3.5.0
